@@ -45,5 +45,5 @@ This project provides an exploratory data analysis (EDA) of the hospitality indu
 The analysis provides actionable insights for hospitality businesses to optimize their occupancy rates and revenue streams based on data-driven decisions.
 
 ## Contact
-For any queries or collaboration, feel free to connect via [LinkedIn]([https://www.linkedin.com/in/deepak-yadav](https://www.linkedin.com/in/deepak-yadav-359b3a20a/]).
+For any queries or collaboration, feel free to connect via [LinkedIn]([https://www.linkedin.com/in/deepak-yadav](https://www.linkedin.com/in/deepakyadav19/).
 
